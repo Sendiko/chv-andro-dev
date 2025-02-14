@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Belajar Android"
+rootProject.name = "android-course"
 include(":app")
