@@ -1,4 +1,4 @@
-package com.example.belajarandroid.login_demo
+package com.example.belajarandroid.logindemo
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
